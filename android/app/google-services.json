@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "715565040992",
+    "project_id": "diary-notes-889ce",
+    "storage_bucket": "diary-notes-889ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715565040992:android:436ce5efcb7b4819a58a05",
+        "android_client_info": {
+          "package_name": "com.example.diary_notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkgTK1QEy4TbSxCY_zfVtpIHs5p227Lb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
